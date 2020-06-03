@@ -1,12 +1,12 @@
-Welcome to Tree Visualizer! It is a React application aiming to help visualize various tree data structures. While learing these data structures I wondered how would they look like if system displayed the nodes and the connections. So I made this project to help someone starting out better understand this. You can play around with it here: [Tree Visualizer](https://vandanrogheliya.github.io/tree-visualizer/) 
+Welcome to Tree Visualizer! It is a React application aiming to help visualize various tree data structures. While learing these data structures I wondered how would they look like if system displayed the nodes and the connections. So I made this project to help someone starting out better understand them. You can play around with it here: [Tree Visualizer](https://vandanrogheliya.github.io/tree-visualizer/) 
 
 # Project contains following data structures:
-## Binary Search Tree
-## Trie
-## AVL Tree
-## Red Black Tree
-## Max Heap
-## Min Heap
+### Binary Search Tree
+### Trie
+### AVL Tree
+### Red Black Tree
+### Max Heap
+### Min Heap
 
 # Features visualized in each data structure
 ## Trie
