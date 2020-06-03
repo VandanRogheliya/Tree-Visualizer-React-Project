@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tree-visualizer/static/css/main.983a1ea2.chunk.css",
+    "main.css": "/tree-visualizer/static/css/main.58fe4bb0.chunk.css",
     "main.js": "/tree-visualizer/static/js/main.d13041bc.chunk.js",
     "main.js.map": "/tree-visualizer/static/js/main.d13041bc.chunk.js.map",
     "runtime-main.js": "/tree-visualizer/static/js/runtime-main.8b149150.js",
@@ -8,15 +8,15 @@
     "static/js/2.2b3b51bb.chunk.js": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js",
     "static/js/2.2b3b51bb.chunk.js.map": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js.map",
     "index.html": "/tree-visualizer/index.html",
-    "precache-manifest.e9b2fa8ee02b5ce8531a8dcee32f7e39.js": "/tree-visualizer/precache-manifest.e9b2fa8ee02b5ce8531a8dcee32f7e39.js",
+    "precache-manifest.ff061b3bb5f79fc0391717c5385dcdfb.js": "/tree-visualizer/precache-manifest.ff061b3bb5f79fc0391717c5385dcdfb.js",
     "service-worker.js": "/tree-visualizer/service-worker.js",
-    "static/css/main.983a1ea2.chunk.css.map": "/tree-visualizer/static/css/main.983a1ea2.chunk.css.map",
+    "static/css/main.58fe4bb0.chunk.css.map": "/tree-visualizer/static/css/main.58fe4bb0.chunk.css.map",
     "static/js/2.2b3b51bb.chunk.js.LICENSE.txt": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b149150.js",
     "static/js/2.2b3b51bb.chunk.js",
-    "static/css/main.983a1ea2.chunk.css",
+    "static/css/main.58fe4bb0.chunk.css",
     "static/js/main.d13041bc.chunk.js"
   ]
 }
