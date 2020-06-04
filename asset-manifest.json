@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tree-visualizer/static/css/main.58fe4bb0.chunk.css",
-    "main.js": "/tree-visualizer/static/js/main.d13041bc.chunk.js",
-    "main.js.map": "/tree-visualizer/static/js/main.d13041bc.chunk.js.map",
-    "runtime-main.js": "/tree-visualizer/static/js/runtime-main.8b149150.js",
-    "runtime-main.js.map": "/tree-visualizer/static/js/runtime-main.8b149150.js.map",
-    "static/js/2.2b3b51bb.chunk.js": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js",
-    "static/js/2.2b3b51bb.chunk.js.map": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js.map",
-    "index.html": "/tree-visualizer/index.html",
-    "precache-manifest.ff061b3bb5f79fc0391717c5385dcdfb.js": "/tree-visualizer/precache-manifest.ff061b3bb5f79fc0391717c5385dcdfb.js",
-    "service-worker.js": "/tree-visualizer/service-worker.js",
-    "static/css/main.58fe4bb0.chunk.css.map": "/tree-visualizer/static/css/main.58fe4bb0.chunk.css.map",
-    "static/js/2.2b3b51bb.chunk.js.LICENSE.txt": "/tree-visualizer/static/js/2.2b3b51bb.chunk.js.LICENSE.txt"
+    "main.css": "/Tree-Visualizer-React-Project/static/css/main.4fc24448.chunk.css",
+    "main.js": "/Tree-Visualizer-React-Project/static/js/main.cf328fbf.chunk.js",
+    "main.js.map": "/Tree-Visualizer-React-Project/static/js/main.cf328fbf.chunk.js.map",
+    "runtime-main.js": "/Tree-Visualizer-React-Project/static/js/runtime-main.12372ef4.js",
+    "runtime-main.js.map": "/Tree-Visualizer-React-Project/static/js/runtime-main.12372ef4.js.map",
+    "static/js/2.2b3b51bb.chunk.js": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js",
+    "static/js/2.2b3b51bb.chunk.js.map": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js.map",
+    "index.html": "/Tree-Visualizer-React-Project/index.html",
+    "precache-manifest.ffdc8a61e0e8621c486ccd6164ac6c9a.js": "/Tree-Visualizer-React-Project/precache-manifest.ffdc8a61e0e8621c486ccd6164ac6c9a.js",
+    "service-worker.js": "/Tree-Visualizer-React-Project/service-worker.js",
+    "static/css/main.4fc24448.chunk.css.map": "/Tree-Visualizer-React-Project/static/css/main.4fc24448.chunk.css.map",
+    "static/js/2.2b3b51bb.chunk.js.LICENSE.txt": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b149150.js",
+    "static/js/runtime-main.12372ef4.js",
     "static/js/2.2b3b51bb.chunk.js",
-    "static/css/main.58fe4bb0.chunk.css",
-    "static/js/main.d13041bc.chunk.js"
+    "static/css/main.4fc24448.chunk.css",
+    "static/js/main.cf328fbf.chunk.js"
   ]
 }
