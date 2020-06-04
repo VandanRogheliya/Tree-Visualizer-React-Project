@@ -1,6 +1,6 @@
 Welcome to Tree Visualizer! It is a React application aiming to help visualize various tree data structures. While learning them I was drawing trees again and again. So I wondered how easier it would be if the system displayed the structure. Hence I made this project to help someone starting with trees and also to give me a better understanding of them. 
 
-You can play around with it here: [Tree Visualizer](https://vandanrogheliya.github.io/tree-visualizer/) 
+You can play around with it here: [Tree Visualizer](https://vandanrogheliya.github.io/Tree-Visualizer-React-Project/) 
 
 # Project comprises the following data structures:
 ### Binary Search Tree
