@@ -39,4 +39,4 @@ You can play around with it here: [Tree Visualizer](https://vandanrogheliya.gith
 - Extracting the topmost node
 - Deleting a node
 
-I personally really relished making Trie. When nodes lighted up when I typed in the search bar amazed me. I hope you enjoy learning with my creation.
+I personally relished making Trie. When nodes lighted up when I typed in the search bar amazed me. I hope you enjoy learning with my creation.
