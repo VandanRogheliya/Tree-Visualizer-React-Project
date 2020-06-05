@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tree-Visualizer-React-Project/static/css/main.4fc24448.chunk.css",
+    "main.css": "/Tree-Visualizer-React-Project/static/css/main.fd1114c6.chunk.css",
     "main.js": "/Tree-Visualizer-React-Project/static/js/main.cf328fbf.chunk.js",
     "main.js.map": "/Tree-Visualizer-React-Project/static/js/main.cf328fbf.chunk.js.map",
     "runtime-main.js": "/Tree-Visualizer-React-Project/static/js/runtime-main.12372ef4.js",
@@ -8,15 +8,15 @@
     "static/js/2.2b3b51bb.chunk.js": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js",
     "static/js/2.2b3b51bb.chunk.js.map": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js.map",
     "index.html": "/Tree-Visualizer-React-Project/index.html",
-    "precache-manifest.ffdc8a61e0e8621c486ccd6164ac6c9a.js": "/Tree-Visualizer-React-Project/precache-manifest.ffdc8a61e0e8621c486ccd6164ac6c9a.js",
+    "precache-manifest.05ba9a47b6bda23439bcb79f19df1877.js": "/Tree-Visualizer-React-Project/precache-manifest.05ba9a47b6bda23439bcb79f19df1877.js",
     "service-worker.js": "/Tree-Visualizer-React-Project/service-worker.js",
-    "static/css/main.4fc24448.chunk.css.map": "/Tree-Visualizer-React-Project/static/css/main.4fc24448.chunk.css.map",
+    "static/css/main.fd1114c6.chunk.css.map": "/Tree-Visualizer-React-Project/static/css/main.fd1114c6.chunk.css.map",
     "static/js/2.2b3b51bb.chunk.js.LICENSE.txt": "/Tree-Visualizer-React-Project/static/js/2.2b3b51bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12372ef4.js",
     "static/js/2.2b3b51bb.chunk.js",
-    "static/css/main.4fc24448.chunk.css",
+    "static/css/main.fd1114c6.chunk.css",
     "static/js/main.cf328fbf.chunk.js"
   ]
 }
